@@ -1,2 +1,2 @@
 # ListaExercicios
-Respostas Java Lista de Exercicios
+Respostas Java e Portugol Lista de Exercicios
