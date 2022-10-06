@@ -1,5 +1,8 @@
-## Lista de Exercícios Portugol
+### Listas de Exercicios
 
-Lista 1 - Finished
+Resolvidos até agora:
+
+Lista 1 - Finished 
 
 Lista 2 - Ready to Start
+
