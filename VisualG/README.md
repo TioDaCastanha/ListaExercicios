@@ -4,4 +4,5 @@ Resolvidos até agora:
 
 Lista 1 - Finished 
 
-Lista 2 - Updating
+Lista 2 - Ready to Start
+
