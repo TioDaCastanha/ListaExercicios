@@ -10,12 +10,16 @@ public class Ex32 {
 
         int player, cpuNumero;
         boolean repetir;
-        List<Integer> cpu = Arrays.asList(1,2,3,4,5,6);
+        //Caso queira escolher numeros Aleatórios específicos se cria um List
+        //List<Integer> cpu = Arrays.asList(1,5,10,4,3,6);
+
+        //Variável para utilizar a função Random
         Random cpuEscolha = new Random();
 
         do {
 
-            cpuNumero = cpuEscolha.nextInt(cpu.size());
+            //Definir o Range passando o valor como parâmetro ou uma list
+            cpuNumero = cpuEscolha.nextInt(5);
 
             player = Integer.parseInt(JOptionPane.showInputDialog("--- Tente adivinhar o numero ---\nEscolha um numero de 1 a 6"));
             if (player == cpuNumero){

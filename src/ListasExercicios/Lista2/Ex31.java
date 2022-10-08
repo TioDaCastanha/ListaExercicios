@@ -10,15 +10,13 @@ public class Ex31 {
 
         do {
             jokenpo = Integer.parseInt(JOptionPane.showInputDialog
-                    ("""
-                            --- JO KEN PO ---
-                            Escolha Um:
-                            1 - Pedra
-                            2 - Papel
-                            3 - Tesoura
-                            4 - Sair
-                            _________________
-                            """));
+                    ("--- JO KEN PO ---\n" +
+                     "Escolha Um:\n" +
+                     "1 - Pedra\n" +
+                     "2 - Papel\n" +
+                     "3 - Tesoura\n" +
+                     "4 - Sair\n" +
+                     "_________________\n"));
             do {
                 cpu = (int)(Math.random() * 4);
             }while(cpu < 1);
