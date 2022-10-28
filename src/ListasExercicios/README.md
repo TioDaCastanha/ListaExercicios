@@ -6,4 +6,4 @@ Lista 1 - Finished
 
 Lista 2 - Finished
 
-Lista 3 - Updating
+Lista 3 - Finished
